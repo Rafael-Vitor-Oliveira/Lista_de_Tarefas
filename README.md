@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-  <img alt="ListaDeTarefas" src=".github/Tarefas.JPG" width="70%">
+  <img alt="ListaDeTarefas" src=".github/Tarefas.JPG" width="450px" height="450px">
 </p>
 
 ## 🚀 Tecnologias
